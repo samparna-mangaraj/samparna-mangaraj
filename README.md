@@ -20,7 +20,7 @@ A B.Tech CSE student passionate about using technology to uplift humanity and cr
 
 
 ## 🌐 Where to Find Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/samparna-mangaraj-ab768b255) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workforsamparna@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samparna-mangaraj-ab768b255) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workforsamparna@gmail.com) 
 
 
 ## 🌟 A Few Fun Facts
